@@ -38,3 +38,5 @@ python -m http.server
 ```
 
 This starts a local server. Run this command in the same directory as index.html.
+
+![SW_Testing_QA_Assn3](https://github.com/lgist2/SW_QA_BMI_Assignment3/assets/71097489/d14a0318-3e35-4635-b4bb-b1949c0a435a)
